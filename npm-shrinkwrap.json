@@ -689,9 +689,9 @@
       "dev": true
     },
     "eris-db": {
-      "version": "0.15.8",
-      "from": "eris-db@0.15.8",
-      "resolved": "https://registry.npmjs.org/eris-db/-/eris-db-0.15.8.tgz",
+      "version": "0.15.9",
+      "from": "eris-db@0.15.9",
+      "resolved": "https://registry.npmjs.org/eris-db/-/eris-db-0.15.9.tgz",
       "dependencies": {
         "@nodeguy/generic": {
           "version": "2.1.1",
